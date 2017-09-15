@@ -1,6 +1,6 @@
 # Challenge description
 
-In this challenge, you will be provided with two sets of audio clips: one where the instrument being played in the clip is known, and one where the insturment being played is unknown. It is your task to predict, using a machine learning model, which instrument is being played in each of the unknown clips.
+In this challenge, you will be provided with two sets of audio clips: one where the instrument being played in the clip is known, and one where the instrument being played is unknown. It is your task to predict, using a machine learning model, which instrument is being played in each of the unknown clips.
 
 # Evaluation criteria
 
@@ -15,7 +15,7 @@ We will be evaluating your performance based on several criteria:
 The unknown music samples will not be available to you from the beginning. There will be two ways to make predictions on the unknown samples:
 
 - First, once you believe you have a working model, you may flag us down, and we will provide a USB drive with the unknown samples for you to pass through your model.
-- Second, once **XXXXX** hours has elapsed, we will release the test set publically via Git/Google Drive/Dropbox for all to access freely.
+- Second, once **XXXXX** hours has elapsed, we will release the test set publicly via Git/Google Drive/Dropbox for all to access freely.
 
 Please submit your predictions as a csv file with 2 columns, filename and prediction. Please name the file `your_name.csv`, and do not include the column names in the submission. 
 
@@ -43,6 +43,6 @@ The only possible values for the instrument labels are: "BassClarinet", "BassTro
 
 Upon receipt of a properly formatted submission to rmuraglia@oath.com, we will record your performance metrics, but will not inform you of your performance until submissions are closed.
 
-You are encouraged to submit early, and to resubmit as you refine your model. Only your final submission's scores will be considered in the rankings, so please don't hesitate to submit a coarse model. Get on the leaderboard with something complete, and then work to improve it with your remaining time.
+You are encouraged to submit early, and to resubmit as you refine your model. Only your final submission's scores will be considered in the rankings, so please don't hesitate to submit a coarse model. Get on the leader board with something complete, and then work to improve it with your remaining time.
 
 Good luck!
