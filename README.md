@@ -40,7 +40,7 @@ Unknown_131.wav,Cello
 
 The only possible values for the instrument labels are: "BassClarinet", "BassTrombone", "BbClarinet", "Cello", "EbClarinet", "Marimba", "TenorTrombone", "Viola", "Violin" and "Xylophone". Please ensure that your labels match these. Examples of invalid labels are "Bass Clarinet" and "bassclarinet".
 
-Upon receipt of a properly formatted submission to rmuraglia@oath.com, we will record your performance metrics, but will not inform you of your performance until submissions are closed.
+Upon receipt of a properly formatted submission, we will record your performance metrics, but will not inform you of your performance until submissions are closed.
 
 You are encouraged to submit early, and to resubmit as you refine your model. Only your final submission's scores will be considered in the rankings, so please don't hesitate to submit a coarse model. Get on the leader board with something complete, and then work to improve it with your remaining time.
 
