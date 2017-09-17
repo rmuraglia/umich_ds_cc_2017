@@ -12,10 +12,8 @@ We will be evaluating your performance based on several criteria:
 
 # Submission process
 
-The unknown music samples will not be available to you from the beginning. There will be two ways to make predictions on the unknown samples:
-
-- First, once you believe you have a working model, you may flag us down, and we will provide a USB drive with the unknown samples for you to pass through your model.
-- Second, once 4 hours has elapsed, we will release the test set publicly via Git/Google Drive/Dropbox for all to access freely.
+The unknown music samples will not be available to you from the beginning.  
+Once 4 hours has elapsed, we will release the test set publicly via Git/Google Drive/Dropbox for all to access freely.
 
 Please submit your predictions as a csv file with 2 columns, filename and prediction. Please name the file `your_name.csv`, and do not include the column names in the submission. 
 
