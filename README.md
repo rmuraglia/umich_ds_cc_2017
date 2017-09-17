@@ -18,7 +18,7 @@ Once 4 hours has elapsed, we will release the test set publicly via Git/Google D
 Please submit your predictions as a csv file with 2 columns, filename and prediction. Please name the file `your_name.csv`, and do not include the column names in the submission. 
 
 **Email this file to rmuraglia@oath.com, jedc@oath.com and yugan@oath.com**.  
-In the body of the email please include your anticipated prediction accuracy (e.g. 72.5%).  
+In the body of the email please include your anticipated prediction accuracy (e.g. 72.5%), as well as a short description of your model (# of features, how data were processed into features, what types of models you tried).  
 Please also put your code in a github repo, and provide a link in your email for us to review your code.
 
 Here is an example of what a submission should look like:
